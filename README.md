@@ -56,5 +56,8 @@
 
 ### If you do not add a username and password, you will not be able to access
 
+##### Here the registration is not done
 ![ER Diagram](How1.jpg)
+
+##### Here it is registered
 ![ER Diagram](How2.jpg)
