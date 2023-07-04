@@ -1,3 +1,4 @@
+# Model and Sql
 ![ER Diagram](Blankdiagram.jpeg)
-Resource: [Noorkhalel]
-Description: [Brief description of the resource and its purpose in the Hospital Management System]
+### I did the protection by adding two classes
+![ER Diagram](Security.jpeg)
