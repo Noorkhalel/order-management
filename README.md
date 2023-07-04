@@ -53,3 +53,7 @@
     - [StockService.interface]
   
 ```
+
+### If you do not add a username and password, you will not be able to access
+![ER Diagram](How1.jpg)
+![ER Diagram](How2.jpg)
